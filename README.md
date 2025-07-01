@@ -31,6 +31,8 @@
 
 Apartado para destacar algunos de los proyectos personales y colaborativos en los que he trabajado.
 
+- [Portal Web de Pulpí](https://github.com/DenisSValentin/WebMercado_Ayto) — Portal web de la ciudad de Pulpí utilizado para mantener a todos los ciudadanos informados de las últimas noticias y eventos de manera sencilla e intuitiva.
+
 - [La Casa de los Secretos - Scape Room](https://github.com/DenisSValentin/ScapeRoom_LaCasaDeLosSecretos) — Un videojuego interactivo del estilo "Scape Room" desarrollado en JavaScript con la librería three.js.
 
 ---
