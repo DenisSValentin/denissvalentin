@@ -27,7 +27,7 @@
 
 ---
 
-## 🚧 Proyectos
+## 📁 Proyectos
 
 Apartado para destacar algunos de los proyectos personales y colaborativos en los que he trabajado.
 
