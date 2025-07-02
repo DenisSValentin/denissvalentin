@@ -35,6 +35,8 @@ Apartado para destacar algunos de los proyectos personales y colaborativos en lo
 
 - [La Casa de los Secretos - Scape Room](https://github.com/DenisSValentin/ScapeRoom_LaCasaDeLosSecretos) — Un videojuego interactivo del estilo "Scape Room" desarrollado en JavaScript con la librería three.js.
 
+- [Criptografía basada en retículos: El cifrado del futuro](https://github.com/DenisSValentin/Algoritmo_ML-KEM) — Mi Trabajo Fin de Grado. En este trabajo desarrollo de manera funcional el algoritmo **"FIPS 203"**, que es el principal candidato a sustituir a los tipos de cifrado utilizados hoy en día cuando la computación cuántica esté tan avanzada que sea una amenaza muy seria para el mundo digital.
+
 ---
 
 ## 📫 ¿Hablamos?
