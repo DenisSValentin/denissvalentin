@@ -2,7 +2,7 @@
 
 🎓 Estoy graduado en Ingeniería Informática por la Universidad de Granada, con especialización en Ingeniería del Software. A lo largo de mi formación, también cursé asignaturas de Inteligencia Artificial y Sistemas de la Información. Completé además un año Erasmus+ en la Università degli Studi di Palermo (Italia), donde estudié materias de máster en Machine Learning y Robótica, tanto en inglés como en italiano.
 
-💻 Mi verdadera pasión está en el desarrollo web y mobile. Me entusiasma crear productos útiles, funcionales y bien diseñados; sumado a que siempre busco nuevas tecnologías, frameworks y metodologías para seguir aprendiendo y creciendo como desarrollador.
+💻 Apasionado por el desarrollo web y mobile, aunque también me gusta estar informado de las novedades en el resto de áreas de la informática. Disfruto explorando nuevas tecnologías, frameworks y metodologías de trabajo.
 
 🌍 De origen multicultural, por mi padre italiano y mi madre búlgara. Manejo el español y el búlgaro a nivel nativo, dispongo del certificado B1 en inglés (con calificación B2 en todas las destrezas a excepción del writing) y un nivel básico en italiano.
 
