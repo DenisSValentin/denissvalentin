@@ -15,7 +15,7 @@ I am currently working as a Junior QA Engineer at Foxxum UG.
 
 - **Languages:** Python, Java, SQL, Bash, HTML, CSS, JavaScript, PHP, C++, and C.
 - **Tools:** Git, GitHub, Bitbucket, Jira, Docker, and Jenkins.
-- **Libraries/Frameworks:** NumPy, Pandas, Hashlib, Nginx, Three.js, and OpenMP .
+- **Libraries/Frameworks:** NumPy, Pandas, Hashlib, Nginx, Three.js, and OpenMP.
 - **Others:** MVC Architecture, Agile Methodologies, CI/CD, and QA Automation.
 
 ## 📂 Key Projects
