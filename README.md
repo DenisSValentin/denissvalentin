@@ -1,46 +1,43 @@
-# 👋 ¡Hola! Soy Denis.
+# 👋 Hello! I'm Denis.
 
-🎓 Estoy graduado en Ingeniería Informática por la Universidad de Granada, con especialización en Ingeniería del Software. A lo largo de mi formación, también cursé asignaturas de Inteligencia Artificial y Sistemas de la Información. Completé además un año Erasmus+ en la Università degli Studi di Palermo (Italia), donde estudié materias de máster en Machine Learning y Robótica, tanto en inglés como en italiano.
+## 💻 Computer Scientist | Software Engineer | Junior QA Engineer
 
-💻 Apasionado por el desarrollo web y mobile, aunque también me gusta estar informado de las novedades en el resto de áreas de la informática. Disfruto explorando nuevas tecnologías, frameworks y metodologías de trabajo.
+Computer Science graduate from the University of Granada with a focus on software efficiency and scalable architecture. My profile combines a strong technical foundation with a global mindset, thanks to my international training at the University of Palermo (Italy) and my multicultural roots.
 
-🌍 De origen multicultural, por mi padre italiano y mi madre búlgara. Manejo el español y el búlgaro a nivel nativo, dispongo del certificado B1 en inglés (con calificación B2 en todas las destrezas a excepción del writing) y un nivel básico en italiano.
+## 💼 Currently Role
 
-🧠 Me considero una persona proactiva, analítica y resolutiva. Me gusta pensar con calma, trabajar con atención al detalle y entregar siempre un resultado de calidad. Valoro mucho el trabajo bien hecho y el aprendizaje constante.
+I am currently working as a Junior QA Engineer at Foxxum UG.
+- **Quality Assurance:** Functional testing on OTT platforms and Smart TV ecosystems (tvOS, Tizen, WebOS, etc.).
+- **Continuous Integration:** Verifying deployments in Jenkins to ensure quality standards are maintained across every release.
+- **Agile:** Working under SCRUM methodology in international environments.
 
-🤝 Disfruto trabajando en equipo, comunicándome con claridad, escuchando activamente y ayudando a sacar lo mejor de cada persona en un proyecto común.
+## 🛠️ Tech Stack
 
----
+- **Languages:** Python, Java, SQL, Bash, HTML, CSS, JavaScript, PHP, C++, and C.
+- **Tools:** Git, GitHub, Bitbucket, Jira, Docker, and Jenkins.
+- **Libraries/Frameworks:** NumPy, Pandas, Hashlib, Nginx, Three.js, and OpenMP .
+- **Others:** MVC Architecture, Agile Methodologies, CI/CD, and QA Automation.
 
-## 🔧 Tecnologías y herramientas con las que trabajo
+## 📂 Key Projects
 
-- HTML / CSS / JavaScript
-- Python
-- Java
-- C++
-- SQL
-- Línea de comandos de Linux / Powershell
-- Servidores web con Nginx / Apache
-- Git / GitHub
-- Figma (para diseño y prototipado)
-- Gestión de routers MikroTik con software WinBox.
+- **[Post-Quantum Cryptography (FIPS 203)](https://github.com/DenisSValentin/Algoritmo_ML-KEM)** — Final Degree Project. Functional Python implementation of lattice-based algorithms using NumPy and Hashlib. This project implements the current global standard for post-quantum cryptography, developed to ensure security in the era of quantum computing.
 
----
+- **[The House of Secrets - Escape Room](https://github.com/DenisSValentin/ScapeRoom_LaCasaDeLosSecretos)** — An interactive "Escape Room" style video game developed in JavaScript using the Three.js library, featuring 3D environment management, including collisions, lighting, and shadows.
 
-## 📁 Proyectos
+- **[Pulpi Web Portal](https://github.com/DenisSValentin/WebMercado_Ayto)** — A city web portal designed to keep citizens informed about the latest news and events through a simple and intuitive interface. I was responsible for the full-cycle web design and construction, ensuring end-user functionality and system optimization.
+  
+- **"Monopoly" style Video Game** - A desktop application developed in Java utilizing Object-Oriented Programming (OOP) and Model-View-Controller (MVC) architecture to ensure a modular and scalable codebase
 
-Apartado para destacar algunos de los proyectos personales y colaborativos en los que he trabajado.
+## 🌍 Languages
 
-- [Portal Web de Pulpí](https://github.com/DenisSValentin/WebMercado_Ayto) — Portal web de la ciudad de Pulpí utilizado para mantener a todos los ciudadanos informados de las últimas noticias y eventos de manera sencilla e intuitiva.
+- **Spanish:** Native.
+- **Bulgarian:** Native.
+- **English:** Advanced.
+- **Italian:** Basic
 
-- [La Casa de los Secretos - Scape Room](https://github.com/DenisSValentin/ScapeRoom_LaCasaDeLosSecretos) — Un videojuego interactivo del estilo "Scape Room" desarrollado en JavaScript con la librería three.js.
+## 📫 Let's Connect
 
-- [Criptografía basada en retículos: El cifrado del futuro](https://github.com/DenisSValentin/Algoritmo_ML-KEM) — Mi Trabajo Fin de Grado. En este trabajo desarrollo de manera funcional el algoritmo **"FIPS 203"**, que es el principal candidato a sustituir a los tipos de cifrado utilizados hoy en día cuando la computación cuántica esté tan avanzada que sea una amenaza muy seria para el mundo digital.
-
----
-
-## 📫 ¿Hablamos?
-
-Puedes contactarme por aquí mismo en GitHub o a través de [LinkedIn](https://www.linkedin.com/in/denis-valentin-stoyanov).
-
-¡Gracias por pasarte por mi perfil! 🚀
+* **LinkedIn:** [linkedin.com/in/denis-valentin-stoyanov](https://www.linkedin.com/in/denis-valentin-stoyanov)
+* **Email:** [denisvalentin47@gmail.com](mailto:denisvalentin47@gmail.com)
+  
+Thank you so much for visiting my profile! 🙂 I'm always open to new challenges and collaborations.
