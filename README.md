@@ -1,59 +1,65 @@
 # 👋 Hello! I'm Denis.
 
-## 💻 Computer Scientist | AI Engineer | Software Engineer
+## 💻 Software Engineer | AI Engineer
 
-Computer Science graduate from the University of Granada with a focus on software efficiency and scalable architecture. My profile combines a strong technical foundation with a global mindset, thanks to my international training at the University of Palermo (Italy) and my multicultural roots.
+Computer Science graduate from the University of Granada. Software Engineer specialized in applied AI: I build full-stack applications, integrate LLMs and agents into real business processes, and connect systems through APIs. My QA background makes me care about testing and the quality of everything I ship. I adapt quickly to new technologies and I'm used to working in international teams, communicating with technical and business profiles in several languages.
 
 ## 💼 Experience
 
 ### AI Engineer — Greening
 *Jun 2026 – Present · Granada, Spain · Hybrid*
 
-- **AI solutions:** Design, development and integration of LLM-powered solutions and cross-functional automations that optimize the company's different business lines, using Anthropic models, LangGraph agents, MCP and Azure Speech.
-- **Business Central integration:** Connecting applications with Microsoft Dynamics 365 Business Central through its REST/OData APIs and Power Automate, secured with Microsoft Entra ID (OAuth2).
-- **Full-stack development:** Building the applications that speed up operational workflows, with FastAPI, PostgreSQL, Next.js and React, after a prior technical analysis to validate the quality, stability and effectiveness of each tool before deployment.
+- **AI & apps for the business:** Design and development of full-stack applications that speed up operational workflows across different areas of the company, bringing in LLMs, agents (LangGraph), MCP and voice processing (Azure Speech) where they add value. Each development starts with a technical analysis to validate its feasibility, stability and effectiveness.
+- **ERP integration:** Connecting the applications with Microsoft Dynamics 365 Business Central through its REST/OData APIs and Power Automate flows, secured with Microsoft Entra ID (OAuth2).
+- **Full-stack development:** FastAPI, PostgreSQL, Next.js and React.
 - **Cloud & CI/CD:** Containerized deployments on Azure Container Apps (Azure Container Registry, Key Vault, Blob Storage, Application Insights) with Docker and Azure Pipelines (YAML) on Azure Repos.
 - **Quality:** Automated testing with pytest and Playwright, applying my QA background.
-- **International environment:** Coordinating deliveries of value with fluent communication in several languages.
 
 ### Junior QA Engineer — Foxxum
 *Sep 2025 – Jun 2026 · Granada, Spain · On-site*
 
-- **Quality Assurance:** Functional and regression testing of Smart TV and OTT applications across a wide ecosystem: tvOS, Fire TV, Tizen, webOS, Vestel, Xumo, Vizio and Google TV.
-- **Test automation:** Supported the automation of tests with Appium and Selenium, and used Postman for API validation and testing.
-- **Continuous Integration:** Integrated these flows with Jenkins to ensure high-quality CI/CD processes across every release.
-- **Agile:** Worked under SCRUM (dailies and sprint plannings), using Jira, Confluence and Bitbucket for project management and documentation.
+- **Cross-platform quality:** Functional and regression testing of Smart TV and OTT applications across 8 platforms: tvOS, Fire TV, Tizen, webOS, Vestel, Xumo, Vizio and Google TV.
+- **Test automation:** Supported the automation of tests with Appium and Selenium, validated APIs with Postman and integrated these flows into Jenkins.
+- **International team:** Worked under Scrum at a German company, documenting in Jira and Confluence and presenting QA results in English. Brought AI tools into the testing process to reduce manual errors.
+
+### IT Technician — Pulpí City Council
+*Mar 2025 – Aug 2025 · Pulpí, Spain · On-site*
+
+- **Systems & web:** Managed the network infrastructure and supported the technology needs of the different municipal departments. Developed and put into production the municipal web portal.
 
 ## 🛠️ Tech Stack
 
-- **AI & LLMs:** Anthropic (Claude), LangGraph, MCP (Model Context Protocol), and Azure Speech.
-- **Languages:** Python, TypeScript, Java, SQL, Bash, HTML, CSS, JavaScript, PHP, C++, and C.
-- **Backend:** FastAPI, Pydantic, SQLAlchemy, Alembic, Uvicorn, and PostgreSQL.
-- **Frontend:** Next.js, React, Tailwind CSS, shadcn/ui, and Three.js.
-- **Microsoft & Cloud:** Azure (Container Apps, Container Registry, Key Vault, Blob Storage, Application Insights), Business Central (REST/OData APIs), Power Automate, and Microsoft Entra ID (OAuth2).
-- **DevOps:** Docker, Azure Pipelines (YAML), Azure Repos, Jenkins, Git, GitHub, and Bitbucket.
-- **Testing & QA:** pytest, Playwright, Appium, Selenium, Postman, functional and regression testing.
-- **Data & Scientific:** NumPy, Pandas, and OpenMP.
-- **Others:** Jira, Confluence, Nginx, MVC Architecture, Agile Methodologies (SCRUM), and CI/CD.
+- **Applied AI:** LLMs (Claude, GPT, Gemini), agents (LangGraph), MCP (Model Context Protocol), voice (Azure Speech), Scikit-learn, NumPy and Pandas.
+- **Languages:** Python, TypeScript, JavaScript, Java, SQL, Bash, C and C++.
+- **Backend:** FastAPI, Pydantic, SQLAlchemy and PostgreSQL.
+- **Frontend:** Next.js, React, Tailwind CSS and Three.js.
+- **Systems integration:** REST/OData APIs, ERP (Business Central), Power Automate and OAuth2 authentication (Microsoft Entra ID).
+- **Cloud & DevOps:** Docker, CI/CD (Azure Pipelines, GitHub Actions, Jenkins), Azure, Vercel, Cloudflare, Supabase, Git and Linux.
+- **Quality & methodology:** Automated testing (pytest, Playwright, Selenium, Appium), API testing (Postman) and Scrum.
 
 ## 📂 Key Projects
 
-- **[PokeInfoDB](https://pokeinfodb.com)** — Personal project. A competitive Pokémon web platform available in 7 languages: Pokédex, MoveDex, items, spawn map, Team Builder, stat and damage calculators, type chart and Pokémon comparator. Built with Next.js, TypeScript and Tailwind CSS, with data generated from PokeAPI and served statically, and monthly competitive usage stats automated through GitHub Actions.
+- **[Post-Quantum Cryptography: ML-KEM (FIPS 203)](https://github.com/DenisSValentin/Algoritmo_ML-KEM)** — Final Degree Project. From-scratch implementation of NIST's post-quantum encryption standard, based on module lattices (MLWE). From the mathematical specification to code: polynomial multiplication with NTT, matrix operations with NumPy and SHA-3/SHAKE hash functions, verified with tests (pytest).
 
-- **[Post-Quantum Cryptography (FIPS 203)](https://github.com/DenisSValentin/Algoritmo_ML-KEM)** — Final Degree Project. Functional Python implementation of lattice-based algorithms using NumPy and Hashlib. This project implements the current global standard for post-quantum cryptography, developed to ensure security in the era of quantum computing.
+- **[PokeInfoDB](https://pokeinfodb.com)** — A competitive Pokémon web platform in production, built end to end and available in 7 languages. Data is pre-generated into static JSON so it's served without database queries, monthly stats updates are automated with GitHub Actions, and it's deployed with security headers and Core Web Vitals tracking. Built with Next.js, React, TypeScript, Tailwind CSS, Supabase, Vercel and Cloudflare.
 
-- **[The House of Secrets — 3D Escape Room](https://github.com/DenisSValentin/EscapeRoom_LaCasaDeLosSecretos)** — A first-person 3D escape room video game developed in JavaScript with Three.js, featuring collisions, raycast object picking, dynamic lighting and real-time shadows. Deployed on GitHub Pages and **[playable online](https://denissvalentin.github.io/EscapeRoom_LaCasaDeLosSecretos/)** from desktop or mobile, with custom touch controls (virtual joystick and gestures).
+- **[The House of Secrets — 3D Escape Room](https://github.com/DenisSValentin/EscapeRoom_LaCasaDeLosSecretos)** — A real-time 3D browser video game built with JavaScript and Three.js (WebGL), **[playable online](https://denissvalentin.github.io/EscapeRoom_LaCasaDeLosSecretos/)** from desktop and mobile with custom touch controls (virtual joystick and gestures): collision detection, raycast object interaction and dynamic lighting with shadows.
 
-- **[Pulpi Web Portal](https://github.com/DenisSValentin/WebMercado_Ayto)** — A city web portal designed to keep citizens informed about the latest news and events through a simple and intuitive interface. I was responsible for the full-cycle web design and construction, ensuring end-user functionality and system optimization.
+## 🎓 Education
 
-- **"Monopoly" style Video Game** — A desktop application developed in Java utilizing Object-Oriented Programming (OOP) and Model-View-Controller (MVC) architecture to ensure a modular and scalable codebase.
+- **BSc in Computer Science** — University of Granada (UGR) · 2020 – 2024
+- **Erasmus+ Exchange, Computer Science** — Università degli Studi di Palermo (UNIPA), Italy · 2023 – 2024
+
+## 📜 Certifications
+
+- **[Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)** — Anthropic: agents, MCP, hooks and automation · 2026
 
 ## 🌍 Languages
 
 - **Spanish:** Native.
 - **Bulgarian:** Native.
-- **English:** Advanced.
-- **Italian:** Basic.
+- **English:** B2 First (Cambridge).
+- **Italian:** A2.
 
 ## 📫 Let's Connect
 
