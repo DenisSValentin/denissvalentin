@@ -42,7 +42,7 @@ Computer Science graduate from the University of Granada with a focus on softwar
 
 - **[Post-Quantum Cryptography (FIPS 203)](https://github.com/DenisSValentin/Algoritmo_ML-KEM)** — Final Degree Project. Functional Python implementation of lattice-based algorithms using NumPy and Hashlib. This project implements the current global standard for post-quantum cryptography, developed to ensure security in the era of quantum computing.
 
-- **[The House of Secrets - Escape Room](https://github.com/DenisSValentin/ScapeRoom_LaCasaDeLosSecretos)** — An interactive "Escape Room" style video game developed in JavaScript using the Three.js library, featuring 3D environment management, including collisions, lighting, and shadows.
+- **[The House of Secrets — 3D Escape Room](https://github.com/DenisSValentin/EscapeRoom_LaCasaDeLosSecretos)** — A first-person 3D escape room video game developed in JavaScript with Three.js, featuring collisions, raycast object picking, dynamic lighting and real-time shadows. Deployed on GitHub Pages and **[playable online](https://denissvalentin.github.io/EscapeRoom_LaCasaDeLosSecretos/)** from desktop or mobile, with custom touch controls (virtual joystick and gestures).
 
 - **[Pulpi Web Portal](https://github.com/DenisSValentin/WebMercado_Ayto)** — A city web portal designed to keep citizens informed about the latest news and events through a simple and intuitive interface. I was responsible for the full-cycle web design and construction, ensuring end-user functionality and system optimization.
 
