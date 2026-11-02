@@ -39,9 +39,9 @@ Computer Science graduate from the University of Granada. Software Engineer spec
 
 ## 📂 Key Projects
 
-- **[PokeInfoDB](https://pokeinfodb.com)** — A competitive Pokémon web platform in production, built end to end and available in 7 languages: Pokédex, damage and stat calculators, team builder and a monthly metagame analysis. Pre-rendered pages with no database at runtime, multilingual SEO and automation with GitHub Actions and Claude Code. Built with Next.js, React, TypeScript, Tailwind CSS and Cloudflare.
-
 - **Self-hosted infrastructure for my apps** — The platform PokeInfoDB and my upcoming apps run on: continuous deployment with Coolify, production and staging environments, PostgreSQL, access through Cloudflare Tunnel and Access, and encrypted backups. Built on an OVH VPS with Docker and Backblaze B2.
+
+- **[PokeInfoDB](https://pokeinfodb.com)** — A competitive Pokémon web platform in production, built end to end and available in 7 languages: Pokédex, damage and stat calculators, team builder and a monthly metagame analysis. Pre-rendered pages with no database at runtime, multilingual SEO and automation with GitHub Actions and Claude Code. Built with Next.js, React, TypeScript, Tailwind CSS and Cloudflare.
 
 - **[Post-Quantum Cryptography: ML-KEM (FIPS 203)](https://github.com/DenisSValentin/Algoritmo_ML-KEM)** — Final Degree Project. From-scratch implementation of NIST's post-quantum encryption standard, based on module lattices (MLWE). From the mathematical specification to code: polynomial multiplication with NTT, matrix operations with NumPy and SHA-3/SHAKE hash functions, verified with tests (pytest).
 
