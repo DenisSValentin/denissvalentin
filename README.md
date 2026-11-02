@@ -45,7 +45,7 @@ Computer Science graduate from the University of Granada. Software Engineer spec
 
 - **[Post-Quantum Cryptography: ML-KEM (FIPS 203)](https://github.com/DenisSValentin/Algoritmo_ML-KEM)** — Final Degree Project. From-scratch implementation of NIST's post-quantum encryption standard, based on module lattices (MLWE). From the mathematical specification to code: polynomial multiplication with NTT, matrix operations with NumPy and SHA-3/SHAKE hash functions, verified with tests (pytest).
 
-- **[The House of Secrets — 3D Escape Room](https://github.com/DenisSValentin/EscapeRoom_LaCasaDeLosSecretos)** — A real-time 3D browser video game built with JavaScript and Three.js (WebGL), **[playable online](https://denissvalentin.github.io/EscapeRoom_LaCasaDeLosSecretos/)** from desktop and mobile with custom touch controls (virtual joystick and gestures): collision detection, raycast object interaction and dynamic lighting with shadows.
+- **[The House of Secrets — 3D Escape Room](https://github.com/DenisSValentin/escape-room-la-casa-de-los-secretos)** — A real-time 3D browser video game built with JavaScript and Three.js (WebGL), **[playable online](https://denissvalentin.github.io/escape-room-la-casa-de-los-secretos/)** from desktop and mobile with custom touch controls (virtual joystick and gestures): collision detection, raycast object interaction and dynamic lighting with shadows.
 
 - **[Civitas](https://github.com/DenisSValentin/Civitas)** — A Monopoly-style board game for 2 to 4 players in Java with a Model-View-Controller architecture, built for the Object-Oriented Programming and Design course and later redesigned with an animated isometric board in Swing and FlatLaf.
 
