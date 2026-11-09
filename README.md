@@ -26,19 +26,13 @@ A competitive Pokémon web platform in production, built end to end and availabl
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
-### 🔐 [Post-Quantum Cryptography: ML-KEM (FIPS 203)](https://github.com/DenisSValentin/algoritmo-ml-kem)
-*Final Degree Project · University of Granada*
-
-From-scratch implementation of NIST's post-quantum encryption standard, based on module lattices (MLWE): polynomial multiplication with **NTT**, sampling, encoding and **SHA-3/SHAKE**, verified against NIST's official test vectors. Includes an interactive web visualizer, **[available online](https://denissvalentin.github.io/algoritmo-ml-kem/)**, that runs the real implementation step by step in the browser.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Pyodide](https://img.shields.io/badge/Pyodide-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-
 ---
 
 ## 🎓 University projects
 
 | | Project | Description | Stack |
 |---|---|---|---|
+| 🔐 | [**Post-Quantum Cryptography: ML-KEM (FIPS 203)**](https://github.com/DenisSValentin/algoritmo-ml-kem) | Final Degree Project: from-scratch implementation of NIST's post-quantum standard (NTT, SHA-3/SHAKE), verified against NIST's official test vectors, with an interactive visualizer **[available online](https://denissvalentin.github.io/algoritmo-ml-kem/)** | Python · NumPy · Pyodide |
 | 🏚️ | [**The House of Secrets**](https://github.com/DenisSValentin/escape-room-la-casa-de-los-secretos) | 3D escape room in the browser, **[playable online](https://denissvalentin.github.io/escape-room-la-casa-de-los-secretos/)** on desktop and mobile (touch controls), with collisions, raycast interaction and dynamic shadows | JavaScript · Three.js |
 | 🏙️ | [**Civitas**](https://github.com/DenisSValentin/civitas) | Monopoly-style board game for 2 to 4 players with an MVC architecture, later redesigned with an animated isometric board | Java · Swing |
 
