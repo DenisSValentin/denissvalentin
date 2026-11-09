@@ -1,73 +1,58 @@
-# 👋 Hello! I'm Denis.
+<h1 align="center">Hi, I'm Denis 👋</h1>
+<h3 align="center">Software Engineer · Applied AI · Full-stack</h3>
 
-## 💻 Software Engineer | AI Engineer
+<p align="center">
+  <a href="https://www.linkedin.com/in/denis-valentin-stoyanov"><img src="https://img.shields.io/badge/LinkedIn-denis--valentin--stoyanov-0F766E?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:denisvalentin47@gmail.com"><img src="https://img.shields.io/badge/Email-denisvalentin47%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Granada,_Spain-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Granada, Spain">
+</p>
 
-Computer Science graduate from the University of Granada. Software Engineer specialized in applied AI: I build full-stack applications, integrate LLMs and agents into real business processes, and connect systems through APIs. My QA background makes me care about testing and the quality of everything I ship. I adapt quickly to new technologies and I'm used to working in international teams, communicating with technical and business profiles in several languages.
+<p align="center">
+  AI Engineer at <b>Greening</b>, building full-stack apps with <b>LLMs, agents and Azure</b>. Previously QA Engineer.<br>
+  Below are the projects I build on my own, from idea to production.
+</p>
 
-## 💼 Experience
+---
 
-### AI Engineer — Greening
-*Jun 2026 – Present · Granada, Spain · Hybrid*
+## 🚀 My projects
 
-- **AI & apps for the business:** Design and development of full-stack applications that speed up operational workflows across different areas of the company, bringing in LLMs, agents (LangGraph), MCP and voice processing (Azure Speech) where they add value. Each development starts with a technical analysis to validate its feasibility, stability and effectiveness.
-- **ERP integration:** Connecting the applications with Microsoft Dynamics 365 Business Central through its REST/OData APIs and Power Automate flows, secured with Microsoft Entra ID (OAuth2).
-- **Full-stack development:** FastAPI, PostgreSQL, Next.js and React.
-- **Cloud & CI/CD:** Containerized deployments on Azure Container Apps (Azure Container Registry, Key Vault, Blob Storage, Application Insights) with Docker and Azure Pipelines (YAML) on Azure Repos.
-- **Quality:** Automated testing with pytest and Playwright, applying my QA background.
+### 🖥️ Self-hosted infrastructure for my apps
+The platform PokeInfoDB and my upcoming apps run on: continuous deployment with **Coolify**, production and staging environments, **PostgreSQL**, access through **Cloudflare Tunnel and Access**, and encrypted backups. Built on an OVH VPS with Docker and Backblaze B2.
 
-### Junior QA Engineer — Foxxum
-*Sep 2025 – Jun 2026 · Granada, Spain · On-site*
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white) ![Backblaze](https://img.shields.io/badge/Backblaze_B2-E21E29?style=flat-square&logo=backblaze&logoColor=white)
 
-- **Cross-platform quality:** Functional and regression testing of Smart TV and OTT applications across 8 platforms: tvOS, Fire TV, Tizen, webOS, Vestel, Xumo, Vizio and Google TV.
-- **Test automation:** Supported the automation of tests with Appium and Selenium, validated APIs with Postman and integrated these flows into Jenkins.
-- **International team:** Worked under Scrum at a German company, documenting in Jira and Confluence and presenting QA results in English. Brought AI tools into the testing process to reduce manual errors.
+### ⚔️ [PokeInfoDB](https://pokeinfodb.com)
+A competitive Pokémon web platform in production, built end to end and available in **7 languages**: Pokédex, damage and stat calculators, team builder and a monthly metagame analysis. Pre-rendered pages with no database at runtime, multilingual SEO and automation with GitHub Actions and Claude Code.
 
-### IT Technician — Pulpí City Council
-*Mar 2025 – Aug 2025 · Pulpí, Spain · On-site*
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
-- **Systems & web:** Managed the network infrastructure and supported the technology needs of the different municipal departments. Developed and put into production the municipal web portal.
+### 🔐 [Post-Quantum Cryptography: ML-KEM (FIPS 203)](https://github.com/DenisSValentin/algoritmo-ml-kem)
+*Final Degree Project · University of Granada*
 
-## 🛠️ Tech Stack
+From-scratch implementation of NIST's post-quantum encryption standard, based on module lattices (MLWE): polynomial multiplication with **NTT**, sampling, encoding and **SHA-3/SHAKE**, verified against NIST's official test vectors. Includes an interactive web visualizer, **[available online](https://denissvalentin.github.io/algoritmo-ml-kem/)**, that runs the real implementation step by step in the browser.
 
-- **Applied AI:** LLMs (Claude, GPT, Gemini), agents (LangGraph), MCP (Model Context Protocol), voice (Azure Speech), Claude Code (hooks, skills and subagents), Scikit-learn, NumPy and Pandas.
-- **Languages:** Python, TypeScript, JavaScript, Java, SQL, Bash, C and C++.
-- **Backend:** FastAPI, Pydantic, SQLAlchemy and PostgreSQL.
-- **Frontend:** Next.js, React, Tailwind CSS and Three.js.
-- **Systems integration:** REST/OData APIs, ERP (Business Central), Power Automate and OAuth2 authentication (Microsoft Entra ID).
-- **Cloud & DevOps:** Docker, CI/CD (Azure Pipelines, GitHub Actions, Jenkins), Azure, Vercel, Cloudflare (DNS, caching and Workers), Coolify, Git and Linux.
-- **Quality & methodology:** Automated testing (pytest, Playwright, Selenium, Appium), API testing (Postman) and Scrum.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Pyodide](https://img.shields.io/badge/Pyodide-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
-## 📂 Key Projects
+---
 
-- **Self-hosted infrastructure for my apps** — The platform PokeInfoDB and my upcoming apps run on: continuous deployment with Coolify, production and staging environments, PostgreSQL, access through Cloudflare Tunnel and Access, and encrypted backups. Built on an OVH VPS with Docker and Backblaze B2.
+## 🎓 University projects
 
-- **[PokeInfoDB](https://pokeinfodb.com)** — A competitive Pokémon web platform in production, built end to end and available in 7 languages: Pokédex, damage and stat calculators, team builder and a monthly metagame analysis. Pre-rendered pages with no database at runtime, multilingual SEO and automation with GitHub Actions and Claude Code. Built with Next.js, React, TypeScript, Tailwind CSS and Cloudflare.
+| | Project | Description | Stack |
+|---|---|---|---|
+| 🏚️ | [**The House of Secrets**](https://github.com/DenisSValentin/escape-room-la-casa-de-los-secretos) | 3D escape room in the browser, **[playable online](https://denissvalentin.github.io/escape-room-la-casa-de-los-secretos/)** on desktop and mobile (touch controls), with collisions, raycast interaction and dynamic shadows | JavaScript · Three.js |
+| 🏙️ | [**Civitas**](https://github.com/DenisSValentin/civitas) | Monopoly-style board game for 2 to 4 players with an MVC architecture, later redesigned with an animated isometric board | Java · Swing |
 
-- **[Post-Quantum Cryptography: ML-KEM (FIPS 203)](https://github.com/DenisSValentin/algoritmo-ml-kem)** — Final Degree Project. From-scratch implementation of NIST's post-quantum encryption standard, based on module lattices (MLWE). From the mathematical specification to code: polynomial multiplication with NTT, sampling, encoding and SHA-3/SHAKE hash functions, verified against NIST's official test vectors. Includes an interactive web visualizer, **[available online](https://denissvalentin.github.io/algoritmo-ml-kem/)**, that runs the real implementation step by step in the browser.
+---
 
-- **[The House of Secrets — 3D Escape Room](https://github.com/DenisSValentin/escape-room-la-casa-de-los-secretos)** — A real-time 3D browser video game built with JavaScript and Three.js (WebGL), **[playable online](https://denissvalentin.github.io/escape-room-la-casa-de-los-secretos/)** from desktop and mobile with custom touch controls (virtual joystick and gestures): collision detection, raycast object interaction and dynamic lighting with shadows.
+## 🛠️ Tech stack
 
-- **[Civitas](https://github.com/DenisSValentin/civitas)** — A Monopoly-style board game for 2 to 4 players in Java with a Model-View-Controller architecture, built for the Object-Oriented Programming and Design course and later redesigned with an animated isometric board in Swing and FlatLaf.
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,bash,fastapi,postgres,nextjs,react,tailwind,threejs&perline=12" alt="Languages and frameworks" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,vercel,cloudflare,git,linux,sklearn,selenium,postman&perline=12" alt="Cloud, DevOps and tools" />
+</p>
 
-## 🎓 Education
+**Also:** LLMs (Claude, GPT, Gemini) · LangGraph · MCP · Azure Speech · Pydantic · SQLAlchemy · Playwright · pytest · Appium · Coolify · REST/OData · Business Central · Power Automate · Entra ID (OAuth2)
 
-- **BSc in Computer Science** — University of Granada (UGR) · 2020 – 2024
-- **Erasmus+ Exchange, Computer Science** — Università degli Studi di Palermo (UNIPA), Italy · 2023 – 2024
+---
 
-## 📜 Certifications
-
-- **[Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)** — Anthropic: agents, MCP, hooks and automation · 2026
-
-## 🌍 Languages
-
-- **Spanish:** Native.
-- **Bulgarian:** Native.
-- **English:** B2 First (Cambridge).
-- **Italian:** A2.
-
-## 📫 Let's Connect
-
-* **LinkedIn:** [linkedin.com/in/denis-valentin-stoyanov](https://www.linkedin.com/in/denis-valentin-stoyanov)
-* **Email:** [denisvalentin47@gmail.com](mailto:denisvalentin47@gmail.com)
-
-Thank you so much for visiting my profile! 🙂 I'm always open to new challenges and collaborations.
+<p align="center"><i>🇪🇸 Spanish · 🇧🇬 Bulgarian · 🇬🇧 English (B2) — always open to new challenges and collaborations.</i></p>
