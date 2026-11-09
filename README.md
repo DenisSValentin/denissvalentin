@@ -42,7 +42,7 @@ A competitive Pokémon web platform in production, built end to end and availabl
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp,bash,fastapi,nextjs,react,tailwind,threejs&perline=12" width="100%" alt="Languages and frameworks" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,sklearn,linux,git,docker,githubactions,jenkins,azure,vercel,cloudflare,selenium,postman&perline=12" width="100%" alt="Data, DevOps, cloud and testing" />
+  <img src="https://skillicons.dev/icons?i=postgres,sklearn,linux,docker,git,githubactions,jenkins,azure,vercel,cloudflare,selenium,postman&perline=12" width="100%" alt="Data, DevOps, cloud and testing" />
 </p>
 
 **Also:** LLMs (Claude, GPT, Gemini) · LangGraph · MCP · Azure Speech · Pydantic · SQLAlchemy · Playwright · pytest · Appium · Coolify · REST/OData · Business Central · Power Automate · Entra ID (OAuth2)
