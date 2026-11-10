@@ -17,9 +17,9 @@
 ## 🚀 My projects
 
 ### 🖥️ Self-hosted infrastructure for my apps
-The platform PokeInfoDB and my upcoming apps run on: continuous deployment with **Coolify**, production and staging environments, **PostgreSQL**, access through **Cloudflare Tunnel and Access**, and encrypted backups. Built on an OVH VPS with Docker and Backblaze B2.
+My own server to host my apps: deployments with **Coolify** on Docker, a shared **PostgreSQL**, Internet traffic through a **Cloudflare Tunnel** with no open ports, admin panels behind **Cloudflare Access** and administration only over **Tailscale**. Built on an OVH VPS.
 
-![OVH](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Backblaze](https://img.shields.io/badge/Backblaze_B2-E21E29?style=flat-square&logo=backblaze&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![OVH](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
 ### ⚔️ [PokeInfoDB](https://pokeinfodb.com)
 A competitive Pokémon web platform in production, built end to end and available in **7 languages**: Pokédex, damage and stat calculators, team builder and a monthly metagame analysis. Pre-rendered pages with no database at runtime, multilingual SEO and automation with GitHub Actions and Claude Code.
